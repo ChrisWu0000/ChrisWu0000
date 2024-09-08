@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Wu
 - 👀 I’m interested in networks and circuits
-- 🌱 I’m currently learning Computer Engineering @uwaterloo
+- 🌱 I’m currently learning Computer Engineering @UWaterloo
 - 💞️ I’m looking to collaborate on software or hardware development
 - 📫 You can reach me at Chriswu2222@gmail.com
 - 😄 Pronouns: He/Him
