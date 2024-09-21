@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris Wu
-- 👀 I’m interested in quantum physics and circuits ⚛️
+- 👀 I’m interested in Quantum Physics and Machine Learning/Optimization ⚛️
 - 🌱 I’m currently learning Computer Engineering @UWaterloo
 - 💞️ I’m looking to collaborate on software or hardware development
 - 📫 You can reach me at Chriswu2222@gmail.com
